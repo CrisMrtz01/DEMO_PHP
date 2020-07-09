@@ -7,8 +7,7 @@
 </head>
 <body>
     <h3>
-        Aunque creo que es un poco complicado al principio y aun mas con la cantidad de contenido 
-        que se requiere, con paciencia y práctica se pueden lograr los objetivos planteados.   
+        Es un ejemplo  
     </h3>
 </body>
 </html>
